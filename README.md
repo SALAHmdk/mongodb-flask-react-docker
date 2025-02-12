@@ -101,17 +101,17 @@ docker-compose logs -f
 ### 🎯 1. **Affichage des données**
 Affiche les données stockées dans MongoDB sous forme de liste.
 
-![Affichage des données](https://user-images.githubusercontent.com/example/data-list.png)
+![Affichage des données](https://github.com/SALAHmdk/mongodb-flask-react-docker/blob/main/img/1.png)
 
 ### 🎯 2. **Ajout & Suppression des données**
 Ajoute un nouvel utilisateur et supprime une entrée avec un bouton.
 
-![Ajout/Suppression](https://user-images.githubusercontent.com/example/add-delete.png)
+![Ajout/Suppression](https://github.com/SALAHmdk/mongodb-flask-react-docker/blob/main/img/2.png)
 
 ### 🎯 3. **Visualisation sous forme de graphique**
 Un graphique représente la répartition des âges des utilisateurs.
 
-![Graphique des âges](https://user-images.githubusercontent.com/example/chart.png)
+![Graphique des âges](https://github.com/SALAHmdk/mongodb-flask-react-docker/blob/main/img/3.png)
 
 ---
 
